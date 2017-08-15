@@ -4,8 +4,4 @@ Random Text n Shit
 Modifications to a.txt on testBranch
 
 
-<<<<<<< HEAD
 New changes made from master
-=======
-Changes made from testBranch
->>>>>>> testBranch
